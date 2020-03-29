@@ -10,3 +10,6 @@ Usage:
   DISCORD_GUILD="YOUR-CHANNEL-NAME-HERE"
   ```
   4. Run `python3 main.py` when you want to check for updates
+  
+ 
+ Check out this other implementation: https://github.com/arBalasquide/uconn-corona-discordbot
