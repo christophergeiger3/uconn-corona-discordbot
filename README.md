@@ -1,5 +1,5 @@
 # uconn-corona-discordbot
-Checks https://uconn.edu/public-notification/coronavirus/ for updates, and posts them to Discord
+Scrapes https://uconn.edu/public-notification/coronavirus/ for updates, and posts them to Discord
 
 Usage:
   1. git clone https://github.com/christophergeiger3/uconn-corona-discordbot
